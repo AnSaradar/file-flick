@@ -1,0 +1,1 @@
+from .FileSorter import FileSorterApp
